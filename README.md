@@ -12,12 +12,12 @@ Mucho cariño por esta labor de comunidad para comunidad.
 
 Presentaciones :
 
-Expositor | Tema  | Presentación | YouTube |
+Expositor | Tema  | YouTube | Presentación |
 ------------ | ------------- | ------------- |  ------------- | 
-Camila Martins  | Información e Insigths de DevOps y Gemini | https://drive.google.com/file/d/1NQmUMQ_SnuK64RWzszWteTVF_In1hhIp/view?usp=sharing | https://youtu.be/pl8qQO8RewY |
-Alvaro David | El poder multimodal en la práctica | https://bit.ly/DevFest-Lima24 | https://youtu.be/VymX1mx8_74  | 
-Cecilia Ramallo | Mitos y verdades del nomadismo digital | https://drive.google.com/file/d/1PJSP6A0EW9tphGXuCisfFdiCb92y38aC/view?usp=sharing | https://youtu.be/y7ov8ls9pB4 |
-Yhary Arias | De los Datos al despliegue: Pipelines de ML en GCP | https://drive.google.com/file/d/1hAboadPtxg4S9o0B2FUHub7uD5zYu_tk/view?usp=sharing | https://youtu.be/P_QtIyhH8L4 |
+Camila Martins  | Información e Insigths de DevOps y Gemini | https://youtu.be/pl8qQO8RewY | https://drive.google.com/file/d/1NQmUMQ_SnuK64RWzszWteTVF_In1hhIp/ |
+Alvaro David | El poder multimodal en la práctica | https://youtu.be/VymX1mx8_74  | https://bit.ly/DevFest-Lima24  |
+Cecilia Ramallo | Mitos y verdades del nomadismo digital | https://youtu.be/y7ov8ls9pB4 | https://drive.google.com/file/d/1PJSP6A0EW9tphGXuCisfFdiCb92y38aC/ |
+Yhary Arias | De los Datos al despliegue: Pipelines de ML en GCP | https://youtu.be/P_QtIyhH8L4 | https://drive.google.com/file/d/1hAboadPtxg4S9o0B2FUHub7uD5zYu_tk/ |
 
 
 Muchas gracias a todos los que nos acompañaron en la transmisión.
