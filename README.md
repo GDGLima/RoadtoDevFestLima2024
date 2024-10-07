@@ -15,7 +15,7 @@ Presentaciones :
 Expositor | Tema  | YouTube | Presentación |
 ------------ | ------------- | ------------- |  ------------- | 
 Camila Martins  | Información e Insigths de DevOps y Gemini | https://youtu.be/pl8qQO8RewY | https://drive.google.com/file/d/1NQmUMQ_SnuK64RWzszWteTVF_In1hhIp/ |
-Alvaro David | El poder multimodal en la práctica | https://youtu.be/VymX1mx8_74  | https://bit.ly/DevFest-Lima24  |
+Alvaro David | El poder multimodal en la práctica | https://youtu.be/VymX1mx8_74  | https://drive.google.com/file/d/1c3yveWyX5S08VEKAKyTsuY2w7do37WUs/  |
 Cecilia Ramallo | Mitos y verdades del nomadismo digital | https://youtu.be/y7ov8ls9pB4 | https://drive.google.com/file/d/1PJSP6A0EW9tphGXuCisfFdiCb92y38aC/ |
 Yhary Arias | De los Datos al despliegue: Pipelines de ML en GCP | https://youtu.be/P_QtIyhH8L4 | https://drive.google.com/file/d/1hAboadPtxg4S9o0B2FUHub7uD5zYu_tk/ |
 
